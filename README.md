@@ -1,2 +1,2 @@
 # dealio
-Price watcher and notification system for Amazon products.
+Price watcher and notification system for Amazon.
